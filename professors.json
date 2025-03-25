@@ -1,0 +1,140 @@
+{
+    "Professor A": {
+        "courses": [
+            {"course_code": "INSY-1010", "pattern": "MWF"},
+            {"course_code": "INSY-1020", "pattern": "TR"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor B": {
+        "courses": [
+            {"course_code": "INSY-1030", "pattern": "MWF"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor C": {
+        "courses": [
+            {"course_code": "INSY-1040", "pattern": "TR"},
+            {"course_code": "INSY-1050", "pattern": "single_day_3hrs"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor D": {
+        "courses": [
+            {"course_code": "INSY-1060", "pattern": "MWF"},
+            {"course_code": "INSY-1070", "pattern": "TR"},
+            {"course_code": "INSY-1080", "pattern": "single_day_3hrs"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor E": {
+        "courses": [
+            {"course_code": "INSY-1090", "pattern": "MWF"},
+            {"course_code": "INSY-1100", "pattern": "TR"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor F": {
+        "courses": [
+            {"course_code": "INSY-1110", "pattern": "MWF"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor G": {
+        "courses": [
+            {"course_code": "INSY-1120", "pattern": "TR"},
+            {"course_code": "INSY-1130", "pattern": "single_day_3hrs"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor H": {
+        "courses": [
+            {"course_code": "INSY-1140", "pattern": "MWF"},
+            {"course_code": "INSY-1150", "pattern": "TR"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor I": {
+        "courses": [
+            {"course_code": "INSY-1160", "pattern": "MWF"},
+            {"course_code": "INSY-1170", "pattern": "TR"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor J": {
+        "courses": [
+            {"course_code": "INSY-1180", "pattern": "MWF"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor K": {
+        "courses": [
+            {"course_code": "INSY-1190", "pattern": "TR"},
+            {"course_code": "INSY-1200", "pattern": "MWF"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor L": {
+        "courses": [
+            {"course_code": "INSY-1210", "pattern": "MWF"},
+            {"course_code": "INSY-1220", "pattern": "TR"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor M": {
+        "courses": [
+            {"course_code": "INSY-1230", "pattern": "MWF"},
+            {"course_code": "INSY-1240", "pattern": "single_day_3hrs"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor N": {
+        "courses": [
+            {"course_code": "INSY-1250", "pattern": "TR"},
+            {"course_code": "INSY-1260", "pattern": "MWF"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor O": {
+        "courses": [
+            {"course_code": "INSY-1270", "pattern": "MWF"},
+            {"course_code": "INSY-1280", "pattern": "TR"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor P": {
+        "courses": [
+            {"course_code": "INSY-1290", "pattern": "TR"},
+            {"course_code": "INSY-1300", "pattern": "MWF"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor Q": {
+        "courses": [
+            {"course_code": "INSY-1310", "pattern": "TR"},
+            {"course_code": "INSY-1320", "pattern": "MWF"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor R": {
+        "courses": [
+            {"course_code": "INSY-1330", "pattern": "MWF"},
+            {"course_code": "INSY-1340", "pattern": "TR"}
+        ],
+        "preferred_times": ["PM"]
+    },
+    "Professor S": {
+        "courses": [
+            {"course_code": "INSY-1350", "pattern": "MWF"},
+            {"course_code": "INSY-1360", "pattern": "TR"}
+        ],
+        "preferred_times": ["AM"]
+    },
+    "Professor T": {
+        "courses": [
+            {"course_code": "INSY-1370", "pattern": "MWF"},
+            {"course_code": "INSY-1380", "pattern": "TR"}
+        ],
+        "preferred_times": ["PM"]
+    }
+}
